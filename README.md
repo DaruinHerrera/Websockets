@@ -1,7 +1,10 @@
 # Imagenes utilizadas
+```
 Web: Flask
+```
+```
 Crossbar: crossbario/crossbar
-
+```
 ## Instalar dependencias local - opcional
 ```
 pip install -r requirements.txt
@@ -39,3 +42,7 @@ docker exec -ti contenedor python client_component_publish.py
 ```
 
 # Valide la consola del navegador para el servicio web en el puerto 5000
+# Creditos
+```
+http://fcarrizalest.com/creando-app-en-tiempo-real-con-python-vuejs
+```
